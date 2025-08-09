@@ -1,0 +1,50 @@
+# Abdominal Assessment — Mnemonics
+
+## 1) Muayene Sırası
+**I-A-Pe-Pa** → Inspect, Auscultate, Percuss, Palpate  
+> Oskültasyon neden önce? → Palpasyon/perküsyon bağırsak hareketlerini değiştirebilir.
+
+---
+
+## 2) Karın Ağrısı Değerlendirme
+**OLD CARTS**
+- **O**nset – Ne zaman başladı?  
+- **L**ocation – Nerede? Yayılıyor mu?  
+- **D**uration – Ne kadar sürüyor?  
+- **C**haracteristics – Keskin, künt, kramp?  
+- **A**ggravating factors – Ne artırıyor?  
+- **R**elieving factors – Ne azaltıyor?  
+- **T**iming – Günün hangi saatinde kötüleşiyor?  
+- **S**everity – 1–10 şiddet
+
+---
+
+## 3) Safra Taşı Risk Faktörleri
+**4F** → Female, Fat, Fertile, Forty
+
+---
+
+## 4) Akut Karın Kırmızı Bayrakları
+**SICK**
+- **S**evere pain (şiddetli ağrı)
+- **I**mmobile / board-like abdomen (tahta karın)
+- **C**onstant vomiting (durmayan kusma)
+- **K**nown hypotension/shock (hipotansiyon/şok bulgusu)
+
+---
+
+## 5) Appendisit Testleri
+**MURPHY-McPRO**
+- **Murphy sign** → Kolesistit  
+- **McBurney tenderness**  
+- **P**soas sign  
+- **R**ovsing sign  
+- **O**bterator sign
+
+---
+
+## 6) Karın Organları & Kadranlar
+**RUQ:** Liver, gallbladder, duodenum, head of pancreas, right kidney/adrenal, hepatic flexure of colon  
+**LUQ:** Stomach, spleen, left lobe of liver, body/tail of pancreas, left kidney/adrenal, splenic flexure of colon  
+**RLQ:** Cecum, appendix, right ovary/fallopian tube, right ureter  
+**LLQ:** Sigmoid colon, left ovary/fallopian tube, left ureter

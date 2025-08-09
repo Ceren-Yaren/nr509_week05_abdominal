@@ -1,0 +1,25 @@
+# Missing Steps Checklist — Marvin Webster (Önceki Denemelerden)
+
+## Muayene Sırası / Temel
+- [ ] Oskültasyon PERKÜSYON/PALPASVON ÖNCESİ yapıldı.
+- [ ] Tüm 4 kadranda bağırsak sesleri yeterli süre dinlendi (şüphede 3–5 dk).
+- [ ] Vasküler üfürümler (aorta, renal, iliak, femoral) değerlendirildi.
+
+## Perküsyon / Organlar
+- [ ] Genel timpani/dullness dağılımı not edildi.
+- [ ] **Karaciğer sınırı (liver span)** ölçüldü ve kaydedildi.
+- [ ] **Dalak** için Traube’s space perküsyonu yapıldı.
+
+## Palpasyon / Özel İşaretler
+- [ ] Yüzeyel ve derin palpasyon ayrı ayrı yapıldı.
+- [ ] **Murphy sign** (RUQ hassasiyette) değerlendirildi.
+- [ ] **McBurney** noktası hassasiyeti ve **Rovsing** testi kaydedildi.
+- [ ] **Psoas** ve **Obturator** manevraları (appendisit şüphesinde) uygulandı.
+- [ ] **CVA tenderness** (böbrek) değerlendirildi.
+
+## Kırmızı Bayrak / Belgeleme
+- [ ] Rebound/defans varlığında peritoneal irritasyon not edildi.
+- [ ] Kırmızı bayraklar için plan: acil laboratuvar+görüntüleme / konsültasyon.
+- [ ] Bulgular **lokasyon, şiddet, karakter** ile net ve sıralı yazıldı.
+
+> Bu listeyi i-Human öncesi kontrol et; her adımı işaretle.

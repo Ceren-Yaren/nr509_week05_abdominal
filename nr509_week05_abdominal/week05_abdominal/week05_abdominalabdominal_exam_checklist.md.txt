@@ -1,0 +1,41 @@
+# Abdominal Exam Checklist
+
+## Hazırlık
+- Eller yıkandı, kimlik/doğrulama, onam alındı.
+- Oda ısısı uygun, hasta sırtüstü, dizler hafif fleksiyonda, karın açık.
+
+## 1) Inspection
+- Genel görünüm: huzursuzluk, solukluk.
+- Karın konturu: flat/rounded/scaphoid/distended.
+- Cilt: skar, stria, döküntü, caput medusae.
+- Pulsasyon/peristaltizm gözlemi.
+- Fıtık/şişlik (umbilikal/inguinal).
+
+## 2) Auscultation (Palpasyon/Perküsyon ÖNCESİ)
+- 4 kadran bağırsak sesleri (≥1 dk şüphede 3–5 dk).
+- Vasküler: aorta, renal, iliak, femoral üfürümleri.
+
+## 3) Percussion
+- Genel timpani/dullness dağılımı.
+- **Liver span** ölçümü (MCL).
+- **Spleen**: Traube’s space (sol anterior aksiller hatta timpani).
+- **Shifting dullness / fluid wave** (asites şüphesi).
+
+## 4) Palpation
+- Yüzeyel palpasyon: hassasiyet, defans.
+- Derin palpasyon: kitle, organomegali.
+- **Liver edge** palpasyonu, **Murphy sign** (RUQ kolesistit).
+- **McBurney point tenderness** (appendisit), **Rovsing**, **Psoas**, **Obturator** testleri.
+- **CVA tenderness** (böbrek).
+
+## 5) Özel Manevralar
+- Rebound tenderness (peritoneal irritasyon).
+- Fıtık kapıları muayenesi (gerekirse ayakta).
+- Rektal/ pelvik muayene (endikasyon varsa ve onamla).
+
+## Belgeleme İpuçları
+- Sıra ve bulgular net yazılır (“Auskültasyonda normoaktif BS, vasküler üfürüm yok”).
+- Lokalizasyon/kadran, şiddet (1–10), karakter (keskin/kramp).
+- Kırmızı bayrak varsa plan/triage not edilir.
+
+> Mnemonik: **I-A-Pe-Pa** → Inspect, Auscultate, Percuss, Palpate.

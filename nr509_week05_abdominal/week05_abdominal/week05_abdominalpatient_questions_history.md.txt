@@ -1,0 +1,47 @@
+# i-Human — History Questions (Abdominal)
+
+## Başlangıç (Açık Uçlu)
+- Bugün sizi buraya getiren nedir?
+- Ağrı ne zaman başladı? Sürekli mi aralıklı mı?
+- Nerede başladı, şu an nerede hissediyorsunuz? Yayılıyor mu?
+- 1–10 şiddet? Karakteri (keskin/kramp/yanma)?
+- Artıran (yürüme, öksürme, yemek) / hafifleten (pozisyon, ilaç) faktörler?
+
+## Gİ Semptomlar
+- Bulantı/kusma? (sıklık, içerik; kan/kahve telvesi?)
+- İştah değişikliği? Kilo kaybı?
+- Disfaji/odinofaji? Mide yanması, reflü?
+- Konstipasyon/ishal? Tenesmus?
+- Dışkı rengi (siyah/kırmızı/kil rengi) veya mukus?
+- Gaz/şişkinlik/distansiyon? Hangi gıdalar tetikliyor?
+
+## GU ve Üreme
+- Dizüri, hematüri, idrar renginde/miktarında değişim?
+- LMP? Düzenlilik? Anormal vajinal kanama/akıntı?
+- Hamilelik ihtimali? (β-hCG gerekliliği)
+- (Erkek) Testiküler ağrı/şişlik?
+
+## Sistemik / Kırmızı Bayraklar
+- Ateş, titreme, gece terlemesi?
+- İstemsiz kilo kaybı, belirgin halsizlik?
+- Sarılık, kaşıntı, açık renk dışkı/koyu idrar?
+- Senkop/baş dönmesi, göğüs ağrısı/dispne?
+
+## Özgeçmiş / İlaç / Alerji
+- Karın cerrahisi (apandektomi, kolesistektomi, barsak)?
+- Hepatit, ülser, pankreatit, IBD, IBS, taş öyküsü?
+- Düzenli ilaçlar (NSAID, antikoagülan, steroid), OTC/bitkisel?
+- Alerjiler (ilaç/gıda/lateks)?
+
+## Aile ve Sosyal
+- Ailede kolon ca, IBD, safra/böbrek taşı, hepatit?
+- Sigara, alkol (miktar/sıklık), madde kullanımı?
+- Diyet (yağlı/baharatlı/lif), su tüketimi, fiziksel aktivite.
+- Seyahat/antibiyotik kullanımı (C. difficile riski), gıda zehirlenmesi öyküsü?
+
+## Kadın Hastada Ek (Gerekirse)
+- Gebelik belirtileri (mide bulantısı, geciken adet).
+- Over kisti/torsiyonu için ani şiddetli unilateral pelvik ağrı?
+- Ektopik risk: infertilite tedavisi, PID öyküsü?
+
+> Not: i-Human’da 120 sınırı için bu liste **~60 ana sorudur**. Bulgulara göre alt sorular açılır.

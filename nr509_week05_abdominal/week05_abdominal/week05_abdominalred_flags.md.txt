@@ -1,0 +1,22 @@
+# Abdominal Assessment — Red Flags
+
+## Genel Acil Uyarı Bulguları
+- Şiddetli, giderek artan ve lokalize karın ağrısı
+- Tahta karın (board-like rigidity)
+- Yaygın rebound tenderness
+- Yüksek ateş + taşikardi + hipotansiyon (sepsis/şok riski)
+- Kusmukta kan (hematemez) veya kahve telvesi görünümü
+- Siyah (melena) veya parlak kırmızı (hematokezya) dışkı
+- İdrar renginde koyulaşma + sarılık (hepatobiliyer acil)
+- Ani, ciddi kilo kaybı
+- Persistan kusma (dehidratasyon riski)
+- Mental durum değişikliği (konfüzyon, letarji)
+
+## Spesifik Acil Tanılar (Şüphede derhal yönlendirme)
+- Akut appendisit (özellikle perforasyon riski)
+- Akut kolesistit/kolanjit
+- Perfore peptik ülser
+- İntestinal obstrüksiyon/iskemi
+- Akut pankreatit (şiddetli, refrakter ağrı)
+- Rüptüre abdominal aort anevrizması (AAA)
+- Ektopik gebelik (üreme çağındaki kadın)

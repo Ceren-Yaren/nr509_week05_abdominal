@@ -1,0 +1,18 @@
+# Common Abdominal Pain Differentials
+
+| Location  | Possible Diagnoses | Key Features / Notes |
+|-----------|--------------------|----------------------|
+| **RUQ**  | Acute cholecystitis | Murphy sign (+), ateş, bulantı, yağlı yemek sonrası ağrı |
+|           | Hepatitis          | Sarılık, ↑LFT, yorgunluk |
+|           | PUD (gastric)      | Yemek sonrası ağrı, epigastrium yayılım |
+| **LUQ**  | Splenic infarct     | Sol omuza yansıyan ağrı (Kehr sign) |
+|           | Gastritis/PUD      | NSAID kullanımı, kahve telvesi kusma |
+| **RLQ**  | Appendicitis        | McBurney tenderness, Psoas/Obturator |
+|           | Crohn disease      | Kronik diyare, kilo kaybı, perianal hastalık |
+|           | Ovarian cyst/torsion | Ani pelvik ağrı, LMP ilişkili |
+| **LLQ**  | Diverticulitis      | Ateş, konstipasyon, LLQ hassasiyeti |
+|           | Ulcerative colitis | Kanlı mukuslu diyare, tenesmus |
+| **Epigastric** | Pancreatitis | Epigastrik ağrı, sırta yayılım, ↑amylaz/lipaz |
+|           | MI (atypical)      | EKG değişiklikleri, yaşlılarda karın ağrısı ile gelebilir |
+| **Diffuse** | Gastroenteritis  | Bulantı, kusma, diyare, temas öyküsü |
+|           | Bowel obstruction  | Kusma, distansiyon, tinkling BS |

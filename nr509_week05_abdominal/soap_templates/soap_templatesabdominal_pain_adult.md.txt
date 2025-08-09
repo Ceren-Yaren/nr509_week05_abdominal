@@ -1,0 +1,36 @@
+# SOAP — Abdominal Pain (Adult)
+
+## S — Subjective
+- **CC:** “Karın ağrım var” (lokasyon, süre).
+- **HPI (OLD CARTS):** Onset, Location (kadran), Duration, Characteristics, Aggravating/Relieving, Timing, Severity (1–10).
+- **Associated:** Bulantı/kusma, ateş, dışkı/idrarda değişiklik, iştah, kilo, gaz/şişkinlik.
+- **ROS (GI/GU/Sistemik):** Reflü, disfaji, melena/hematokezya, dizüri, sarılık vb.
+- **PMH/PSH:** Ülser, hepatit, pankreatit, IBD/IBS; cerrahiler.
+- **Meds/Allergies:** NSAID, antikoagülan, OTC/bitkisel; ilaç/gıda alerjisi.
+- **FH/SocH:** Ailede kolon ca/IBD/taş; sigara/alkol; diyet/su alımı.
+
+## O — Objective
+- **Genel:** V/S, görünüm (rahatsız/soluk), dehidratasyon?
+- **Abdomen:**
+  - **Inspect:** kontur, skar, distansiyon, peristaltizm/pulsasyon.
+  - **Auscultation:** 4 kadran BS; aorta/renal/iliak/femoral üfürüm.
+  - **Percussion:** timpani/dullness; **liver span**, **Traube’s space**.
+  - **Palpation:** yüzeyel/derin; organlar; **Murphy**, **McBurney**, **Rovsing**, **Psoas/Obturator**, **CVA**.
+  - **Rebound/defans** değerlendirmesi.
+- **Diğer:** Cilt (sarılık/kaşıntı), kardiyopulmoner kısaca.
+
+## A — Assessment (Örnek Şablon)
+- **Çalışan tanı (most likely):** … (örn. Acute appendicitis; K35.80)
+- **Diferansiyeller:** 
+  1) Kolesistit / biliyer kolik  
+  2) Peptik ülser / gastrit  
+  3) Divertikülit / IBS / Gİ enfeksiyon  
+  4) Pankreatit (epigastrik + ↑lipaz)  
+  5) Over patolojileri / ektopik (uygun hastada)
+
+## P — Plan
+- **Tanısal:** CBC, CRP, LFT, lipaz/amylaz, β-hCG (gerekirse), UA; USG/BT endikasyona göre.
+- **Tedavi:** NPO, IV sıvı; analjezi/antiemetik; ampirik abx (klinik endikasyon).
+- **Kırmızı Bayrak Yönetimi:** Peritonit/şok/aktif kanama şüphesi → acil cerrahi/ER.
+- **Eğitim:** Alarm semptomları, hidrasyon, ilaç kullanımı; diyet önerileri (tolere edilen).
+- **Takip:** Bulgulara göre 24–48 saat içinde kontrol veya acil geri dönüş uyarısı.
